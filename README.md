@@ -42,8 +42,8 @@ I'm Miguel Angel Avila, an Ingeniero en Informática y TSU en TIC.
 ## Find me around the web
 
 - [Twitter](https://x.com/mikemontufar)
-- [Instagram](https://instagram.com/@mikemontufar)
-- [500px](https://500px.com/p/mikemontufar?view=photos)
+- [Instagram](https://instagram.com/mikemontufar)
+- [500px](https://500px.com/p/mikemontufar)
 
 ---
 
