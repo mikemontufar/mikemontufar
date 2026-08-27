@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Miguel Angel Avila, an Ingeniero en Informática y TSU en TIC.
+I'm Miguel Angel Avila, Ingeniero en Informática y TSU en TIC.
 
 > Aprender, construir y mejorar constantemente
 
